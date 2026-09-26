@@ -1,0 +1,3 @@
+cd C:\Users\HP\Desktop\bexa\my_telebot - {Перейти в папку проекта}
+python bot.py - {Запустить: TeleBot}
+python clear_webhook.py
